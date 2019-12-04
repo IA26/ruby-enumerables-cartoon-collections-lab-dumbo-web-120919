@@ -17,7 +17,7 @@ def long_planeteer_calls(planeteer_calls)
       val = true 
     end
   end 
-  answer
+  val
 end
 
 def find_the_cheese(cheese)
